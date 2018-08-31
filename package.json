@@ -1,5 +1,5 @@
 {
-  "name": "Multiroom-Chat",
+  "name": "multiroom-chat",
   "version": "1.0.0",
   "description": "Esse projeto consiste em um chat de mensagens em tempo real, usando WebSocket.",
   "main": "index.js",
